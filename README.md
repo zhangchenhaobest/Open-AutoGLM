@@ -1,5 +1,31 @@
 # Open-AutoGLM
 
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+开放手机 Agent 模型与框架，让所有人用上 AI 手机。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
+# Open-AutoGLM
+
 [Readme in English](README_en.md)
 
 <div align="center">
